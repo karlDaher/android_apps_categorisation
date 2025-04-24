@@ -1,7 +1,7 @@
 import pandas as pd
 from google_play_scraper import app
 
-# List of package names seperated using a comma ,
+# List of package names seperated using a comma ",", here we have Chatgpt application twice
 package_names = ["ai.chat.gpt.bot","ai.chat.gpt.bot"]
 
 # List to store results
